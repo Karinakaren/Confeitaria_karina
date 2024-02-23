@@ -28,7 +28,7 @@ html, body {
   /* Estilos para telas menores que 768 pixels de largura (dispositivos móveis) */
   @media screen and (max-width: 768px) {
     .logo img {
-      max-width: 350px; /* Define a largura máxima para telas menores */
+      max-width: 370px; /* Define a largura máxima para telas menores */
     }
   }  
 
