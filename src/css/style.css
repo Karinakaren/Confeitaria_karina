@@ -42,7 +42,7 @@ html, body {
     text-decoration: none; /* Remove sublinhado dos links */
     color: #333; /* Cor dos links */
     margin: 0 20px; /* Margem entre os itens do menu */
-    font-size: 18px; /* Tamanho da fonte */
+    font-size: 35px; /* Tamanho da fonte */
   }
   
   .menu-items a:hover {
@@ -52,7 +52,6 @@ html, body {
   
   header nav {
     margin-top: 20px;
-    font-size: 24px;
   }
   
   header nav a {
