@@ -1,4 +1,4 @@
-@media screen and (max-width: 980px) {
+@media screen and (max-width: 1111px) {
   .cardapio-container {
     grid-template-columns: repeat(2, 1fr);
   }
